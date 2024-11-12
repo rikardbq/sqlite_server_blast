@@ -1,0 +1,7 @@
+{
+  "tasks": {
+    "blast": "deno run --allow-net blast.ts"
+  },
+  "imports": {
+  }
+}
